@@ -1,6 +1,10 @@
-# fddEMU
-An AVR (atmega328p) based floppy drive emulator for PC
-<br>
+# fddEMU_Slim
+An AVR-based floppy disk drive emulator for laptops, essentially a slim drive.
+
+Information below will be updated to show slim drive progress in due time. This will be a hardware modification only. CD 17 March 2025
+
+---
+
 [![build for atmega328p & atmega32u4](https://github.com/acemielektron/fddEMU/actions/workflows/build-firmware.yml/badge.svg)](https://github.com/acemielektron/fddEMU/actions/workflows/build-firmware.yml)
 <br>
 ![fddEMU on perfboard](/images/perfboard-2.png)
