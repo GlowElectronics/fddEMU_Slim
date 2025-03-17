@@ -1,7 +1,7 @@
 # fddEMU_Slim
 An AVR-based floppy disk drive emulator for laptops, essentially a slim drive.
 
-Information below will be updated to show slim drive progress in due time. This will be a hardware modification only.
+Information below will be updated to show slim drive progress in due time.
 
 ---
 
